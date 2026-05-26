@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorfetch",
+        "uuid": 2897091,
+        "checksum": "8q62mp"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
